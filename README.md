@@ -18,3 +18,26 @@ Este proyecto implementa un pipeline que lee un archivo tabular (CSV o Excel) y 
   ```bash
   pip install -r requirements.txt
    ```
+   
+## Modo de uso
+
+```bash
+  ./main.sh
+```
+
+## Output
+
+Se genera:
+
+- `Reporte.pdf` con:
+
+	- Tipos de datos
+
+	- Missing values
+
+	- Distribuciones
+
+	- Correlaciones
+
+	- Outliers
+
