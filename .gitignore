@@ -213,9 +213,6 @@ data/
 __pycache__/
 *.pyc
 
-# Outputs
-out/*.pdf
-
 # Entornos
 venv/
 .env
